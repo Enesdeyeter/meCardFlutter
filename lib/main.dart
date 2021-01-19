@@ -94,7 +94,7 @@ class _MyAppState extends State<MyApp> {
                   tileColor: Colors.black87,
                   leading: Icon(Icons.email_outlined, color: Colors.white70),
                   title: Text(
-                    'enesbilalogullari@trakya.edu.tr',
+                    'lorem@trakya.edu.tr',
                     style: TextStyle(
                       color: Colors.white70,
                       fontFamily: 'Signika',
